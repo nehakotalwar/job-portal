@@ -45,7 +45,7 @@ The website includes multiple pages with consistent navigation and a responsive 
 
 Job-Portal/
 │
-├── index.html
+├─ index.html
 ├── about.html
 ├── category.html
 ├── contact.html
@@ -107,18 +107,6 @@ About	Provides information about the website
 Contact	Displays contact information
 Testimonials	Shows user feedback
 
-📚 Learning Outcomes
-
-Through this project, I practised:
-
-* Structuring webpages with HTML5.
-* Styling interfaces using CSS3.
-* Creating layouts using Flexbox and CSS Grid, where implemented.
-* Organizing a multi-page website.
-* Working with images, links, and navigation.
-* Improving website usability and responsive layouts.
-* Managing project files using Git and GitHub.
-
 🔮 Future Enhancements
 
 * Add job search and filtering functionality.
@@ -138,6 +126,3 @@ Computer Science and Engineering Student
 
 Interested in frontend development and building user-friendly web interfaces.
 
-📄 License
-
-This project is intended for educational and learning purposes. If the original project is used as a starting point, check its license and comply with its attribution and reuse requirements.
